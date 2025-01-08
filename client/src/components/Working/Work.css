@@ -54,3 +54,6 @@
     font-size: 1.2rem;
     font-weight: 600;
 }
+.h-t:hover{
+    opacity: 0.5;
+}
